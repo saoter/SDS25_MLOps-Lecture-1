@@ -8,6 +8,8 @@ import requests
 
 load_dotenv()
 
+# We use the same API_KEY as in the exercise ex_finance.py
+
 api_key = os.getenv('FIN_API_KEY')
 
 
