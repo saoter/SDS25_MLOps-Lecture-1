@@ -17,4 +17,4 @@ test_df = dataset['test'].to_pandas()
 validation_df = dataset['validation'].to_pandas()
 
 
-#print(train_df.head())
+print(train_df.head())
