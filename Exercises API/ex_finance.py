@@ -8,6 +8,9 @@ import requests
 
 load_dotenv()
 
+# IMPORTANT... you have to get your API KEY from Alhavantage, and save it in '.env' file, as FIN_API_KEY=XXXXXXXXXXXXXX
+
+
 api_key = os.getenv('FIN_API_KEY')
 
 
