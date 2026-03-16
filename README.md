@@ -24,6 +24,3 @@ This repository contains lecutre slides, python scripts and dataset for the firs
 - **db_add_columns.ipynb** add new columns
 - **data/Online Retail_short.cs** is dataset used to create database (https://archive.ics.uci.edu/dataset/352/online+retail). I shortened it so it better fits our exercise. 
 
-
-
-This is a test for Branch lecture.
